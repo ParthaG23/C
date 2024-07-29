@@ -1,3 +1,5 @@
+//WAP to cheeck you can apply for votar card
+
 #include<stdio.h>
 int main(){
     int age;
